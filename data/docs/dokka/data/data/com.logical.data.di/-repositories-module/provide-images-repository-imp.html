@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+    <title>provideImagesRepositoryImp</title>
+    <link href="../../../images/logo-icon.svg" rel="icon" type="image/svg">
+    <script>var pathToRoot = "../../../";</script>
+    <script>const storage = localStorage.getItem("dokka-dark-mode")
+    if (storage == null) {
+        const osDarkSchemePreferred = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (osDarkSchemePreferred === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    } else {
+        const savedDarkMode = JSON.parse(storage)
+        if(savedDarkMode === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    }
+    </script>
+<script type="text/javascript" src="../../../scripts/sourceset_dependencies.js" async="async"></script>
+<link href="../../../styles/style.css" rel="Stylesheet">
+<link href="../../../styles/jetbrains-mono.css" rel="Stylesheet">
+<link href="../../../styles/main.css" rel="Stylesheet">
+<link href="../../../styles/prism.css" rel="Stylesheet">
+<link href="../../../styles/logo-styles.css" rel="Stylesheet">
+<script type="text/javascript" src="../../../scripts/clipboard.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/navigation-loader.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/platform-content-handler.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/main.js" defer="defer"></script>
+<script type="text/javascript" src="../../../scripts/prism.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/symbol-parameters-wrapper_deferred.js" defer="defer"></script>
+</head>
+<body>
+<div class="navigation-wrapper" id="navigation-wrapper">
+    <div id="leftToggler"><span class="icon-toggler"></span></div>
+    <div class="library-name">
+            <a href="../../../index.html">
+                    <span>data</span>
+            </a>
+    </div>
+    <div>
+    </div>
+    <div class="pull-right d-flex">
+        <div class="filter-section" id="filter-section">
+                <button class="platform-tag platform-selector jvm-like" data-active="" data-filter=":data:dokkaHtml/release">androidJvm</button>
+        </div>
+        <button id="theme-toggle-button"><span id="theme-toggle"></span></button>
+        <div id="searchBar"></div>
+    </div>
+</div>
+<div id="container">
+    <div id="leftColumn">
+        <div id="sideMenu"></div>
+    </div>
+    <div id="main">
+<div class="main-content" data-page-type="member" id="content" pageIds="data::com.logical.data.di/RepositoriesModule/provideImagesRepositoryImp/#com.logical.data.datasource.remote.ApiService#com.logical.data.datasource.local.storage.ImageDetailsDao#com.logical.data.mappers.ImageDetailsApiToDomainMapper#com.logical.data.mappers.ImageDetailsApiToDatabaseMapper#com.logical.data.mappers.ImageDetailsDatabaseToDomainMapper/PointingToDeclaration//-911560868">
+  <div class="breadcrumbs"><a href="../../../index.html">data</a><span class="delimiter">/</span><a href="../index.html">com.logical.data.di</a><span class="delimiter">/</span><a href="index.html">RepositoriesModule</a><span class="delimiter">/</span><span class="current">provideImagesRepositoryImp</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>provide</span><wbr></wbr><span>Images</span><wbr></wbr><span>Repository</span><wbr></wbr><span><span>Imp</span></span></h1>
+  </div>
+  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":data:dokkaHtml/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="javax.inject/Singleton///PointingToDeclaration/"><span class="token annotation builtin">Singleton</span></span></div><div class="block"><span class="token annotation builtin">@</span><span data-unresolved-link="dagger/Provides///PointingToDeclaration/"><span class="token annotation builtin">Provides</span></span></div></div><span class="token keyword"></span><span class="token keyword">fun </span><a href="provide-images-repository-imp.html"><span class="token function">provideImagesRepositoryImp</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">apiService<span class="token operator">: </span><a href="../../com.logical.data.datasource.remote/-api-service/index.html">ApiService</a><span class="token punctuation">, </span></span><span class="parameter ">imageDetailsDao<span class="token operator">: </span><a href="../../com.logical.data.datasource.local.storage/-image-details-dao/index.html">ImageDetailsDao</a><span class="token punctuation">, </span></span><span class="parameter ">imageDetailsApiToDomainMapper<span class="token operator">: </span><a href="../../com.logical.data.mappers/-image-details-api-to-domain-mapper/index.html">ImageDetailsApiToDomainMapper</a><span class="token punctuation">, </span></span><span class="parameter ">imageDetailsApiToDatabaseMapper<span class="token operator">: </span><a href="../../com.logical.data.mappers/-image-details-api-to-database-mapper/index.html">ImageDetailsApiToDatabaseMapper</a><span class="token punctuation">, </span></span><span class="parameter ">imageDetailsDatabaseToDomainMapper<span class="token operator">: </span><a href="../../com.logical.data.mappers/-image-details-database-to-domain-mapper/index.html">ImageDetailsDatabaseToDomainMapper</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><span data-unresolved-link="com.logical.domain.repositories/ImagesRepository///PointingToDeclaration/">ImagesRepository</span></div><p class="paragraph">This function provides an instance of <span data-unresolved-link="com.logical.domain.repositories/ImagesRepository///PointingToDeclaration/">ImagesRepository</span>. The provided <span data-unresolved-link="com.logical.domain.repositories/ImagesRepository///PointingToDeclaration/">ImagesRepository</span> will have a singleton scope. The actual implementation of the <span data-unresolved-link="com.logical.domain.repositories/ImagesRepository///PointingToDeclaration/">ImagesRepository</span> is <a href="../../com.logical.data.repo/-images-repository-imp/index.html">ImagesRepositoryImp</a>.</p></div></div>
+</div>
+      <div class="footer">
+        <span class="go-to-top-icon"><a href="#content" id="go-to-top-link"></a></span><span>© 2023 Copyright</span><span
+                class="pull-right"><span>Generated by </span><a
+                href="https://github.com/Kotlin/dokka"><span>dokka</span><span class="padded-icon"></span></a></span>
+      </div>
+    </div>
+</div>
+</body>
+</html>
