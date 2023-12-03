@@ -1,0 +1,123 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.logical.data.common////PointingToDeclaration/data/com.logical.data.common/index.html
+$dokka.location:com.logical.data.common//format/kotlin.Long#/PointingToDeclaration/data/com.logical.data.common/format.html
+$dokka.location:com.logical.data.common//orZero/kotlin.Long?#/PointingToDeclaration/data/com.logical.data.common/or-zero.html
+$dokka.location:com.logical.data.common/ApiToDatabaseMapper///PointingToDeclaration/data/com.logical.data.common/-api-to-database-mapper/index.html
+$dokka.location:com.logical.data.common/ApiToDatabaseMapper/ApiToDatabaseMapper/#/PointingToDeclaration/data/com.logical.data.common/-api-to-database-mapper/-api-to-database-mapper.html
+$dokka.location:com.logical.data.common/ApiToDatabaseMapper/toDatabase/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/data/com.logical.data.common/-api-to-database-mapper/to-database.html
+$dokka.location:com.logical.data.common/ApiToDomainMapper///PointingToDeclaration/data/com.logical.data.common/-api-to-domain-mapper/index.html
+$dokka.location:com.logical.data.common/ApiToDomainMapper/ApiToDomainMapper/#/PointingToDeclaration/data/com.logical.data.common/-api-to-domain-mapper/-api-to-domain-mapper.html
+$dokka.location:com.logical.data.common/ApiToDomainMapper/toDomain/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/data/com.logical.data.common/-api-to-domain-mapper/to-domain.html
+$dokka.location:com.logical.data.common/DatabaseMapperException///PointingToDeclaration/data/com.logical.data.common/-database-mapper-exception/index.html
+$dokka.location:com.logical.data.common/DatabaseMapperException/DatabaseMapperException/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/data/com.logical.data.common/-database-mapper-exception/-database-mapper-exception.html
+$dokka.location:com.logical.data.common/DatabaseToDomainMapper///PointingToDeclaration/data/com.logical.data.common/-database-to-domain-mapper/index.html
+$dokka.location:com.logical.data.common/DatabaseToDomainMapper/DatabaseToDomainMapper/#/PointingToDeclaration/data/com.logical.data.common/-database-to-domain-mapper/-database-to-domain-mapper.html
+$dokka.location:com.logical.data.common/DatabaseToDomainMapper/toDomain/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/data/com.logical.data.common/-database-to-domain-mapper/to-domain.html
+$dokka.location:com.logical.data.common/DomainMapperException///PointingToDeclaration/data/com.logical.data.common/-domain-mapper-exception/index.html
+$dokka.location:com.logical.data.common/DomainMapperException/DomainMapperException/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/data/com.logical.data.common/-domain-mapper-exception/-domain-mapper-exception.html
+$dokka.location:com.logical.data.common/DomainToPresentationMapper///PointingToDeclaration/data/com.logical.data.common/-domain-to-presentation-mapper/index.html
+$dokka.location:com.logical.data.common/DomainToPresentationMapper/DomainToPresentationMapper/#/PointingToDeclaration/data/com.logical.data.common/-domain-to-presentation-mapper/-domain-to-presentation-mapper.html
+$dokka.location:com.logical.data.common/DomainToPresentationMapper/toPresentation/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/data/com.logical.data.common/-domain-to-presentation-mapper/to-presentation.html
+$dokka.location:com.logical.data.common/PresentationToUiMapper///PointingToDeclaration/data/com.logical.data.common/-presentation-to-ui-mapper/index.html
+$dokka.location:com.logical.data.common/PresentationToUiMapper/PresentationToUiMapper/#/PointingToDeclaration/data/com.logical.data.common/-presentation-to-ui-mapper/-presentation-to-ui-mapper.html
+$dokka.location:com.logical.data.common/PresentationToUiMapper/toUi/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/data/com.logical.data.common/-presentation-to-ui-mapper/to-ui.html
+$dokka.location:com.logical.data.common/UiMapperException///PointingToDeclaration/data/com.logical.data.common/-ui-mapper-exception/index.html
+$dokka.location:com.logical.data.common/UiMapperException/UiMapperException/#kotlin.String#kotlin.Throwable?/PointingToDeclaration/data/com.logical.data.common/-ui-mapper-exception/-ui-mapper-exception.html
+$dokka.location:com.logical.data.datasource.local.entities////PointingToDeclaration/data/com.logical.data.datasource.local.entities/index.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity///PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/index.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/ImageDetailsEntity/#kotlin.Long#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Long#kotlin.Long#kotlin.Long#kotlin.Long#kotlin.String#kotlin.String#kotlin.Long/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/-image-details-entity.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/comments/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/comments.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/createdAt/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/created-at.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/downloads/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/downloads.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/id/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/id.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/largeImageURL/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/large-image-u-r-l.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/likes/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/likes.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/pageURL/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/page-u-r-l.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/previewURL/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/preview-u-r-l.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/searchQuery/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/search-query.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/tags/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/tags.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/type/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/type.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/user/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/user.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/userId/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/user-id.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/userImageURL/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/user-image-u-r-l.html
+$dokka.location:com.logical.data.datasource.local.entities/ImageDetailsEntity/webFormatURL/#/PointingToDeclaration/data/com.logical.data.datasource.local.entities/-image-details-entity/web-format-u-r-l.html
+$dokka.location:com.logical.data.datasource.local.storage////PointingToDeclaration/data/com.logical.data.datasource.local.storage/index.html
+$dokka.location:com.logical.data.datasource.local.storage/ImageDetailsDao///PointingToDeclaration/data/com.logical.data.datasource.local.storage/-image-details-dao/index.html
+$dokka.location:com.logical.data.datasource.local.storage/ImageDetailsDao/deleteBySearchQuery/#kotlin.String/PointingToDeclaration/data/com.logical.data.datasource.local.storage/-image-details-dao/delete-by-search-query.html
+$dokka.location:com.logical.data.datasource.local.storage/ImageDetailsDao/getAllImageDetails/#kotlin.String/PointingToDeclaration/data/com.logical.data.datasource.local.storage/-image-details-dao/get-all-image-details.html
+$dokka.location:com.logical.data.datasource.local.storage/ImageDetailsDao/insertAll/#kotlin.collections.List[com.logical.data.datasource.local.entities.ImageDetailsEntity]/PointingToDeclaration/data/com.logical.data.datasource.local.storage/-image-details-dao/insert-all.html
+$dokka.location:com.logical.data.datasource.local.storage/LocalDb.Companion///PointingToDeclaration/data/com.logical.data.datasource.local.storage/-local-db/-companion/index.html
+$dokka.location:com.logical.data.datasource.local.storage/LocalDb.Companion/create/#android.content.Context/PointingToDeclaration/data/com.logical.data.datasource.local.storage/-local-db/-companion/create.html
+$dokka.location:com.logical.data.datasource.local.storage/LocalDb///PointingToDeclaration/data/com.logical.data.datasource.local.storage/-local-db/index.html
+$dokka.location:com.logical.data.datasource.local.storage/LocalDb/LocalDb/#/PointingToDeclaration/data/com.logical.data.datasource.local.storage/-local-db/-local-db.html
+$dokka.location:com.logical.data.datasource.local.storage/LocalDb/imageDetailsDao/#/PointingToDeclaration/data/com.logical.data.datasource.local.storage/-local-db/image-details-dao.html
+$dokka.location:com.logical.data.datasource.remote////PointingToDeclaration/data/com.logical.data.datasource.remote/index.html
+$dokka.location:com.logical.data.datasource.remote/ApiService///PointingToDeclaration/data/com.logical.data.datasource.remote/-api-service/index.html
+$dokka.location:com.logical.data.datasource.remote/ApiService/getAllImages/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/data/com.logical.data.datasource.remote/-api-service/get-all-images.html
+$dokka.location:com.logical.data.di////PointingToDeclaration/data/com.logical.data.di/index.html
+$dokka.location:com.logical.data.di/ApisModule///PointingToDeclaration/data/com.logical.data.di/-apis-module/index.html
+$dokka.location:com.logical.data.di/ApisModule/ApisModule/#/PointingToDeclaration/data/com.logical.data.di/-apis-module/-apis-module.html
+$dokka.location:com.logical.data.di/ApisModule/provideApiService/#retrofit2.Retrofit/PointingToDeclaration/data/com.logical.data.di/-apis-module/provide-api-service.html
+$dokka.location:com.logical.data.di/MappersModule///PointingToDeclaration/data/com.logical.data.di/-mappers-module/index.html
+$dokka.location:com.logical.data.di/MappersModule/MappersModule/#/PointingToDeclaration/data/com.logical.data.di/-mappers-module/-mappers-module.html
+$dokka.location:com.logical.data.di/MappersModule/provideImageDetailsApiToDatabaseMapper/#/PointingToDeclaration/data/com.logical.data.di/-mappers-module/provide-image-details-api-to-database-mapper.html
+$dokka.location:com.logical.data.di/MappersModule/provideImageDetailsApiToDomainMapper/#/PointingToDeclaration/data/com.logical.data.di/-mappers-module/provide-image-details-api-to-domain-mapper.html
+$dokka.location:com.logical.data.di/MappersModule/provideImageDetailsDatabaseToDomainMapper/#/PointingToDeclaration/data/com.logical.data.di/-mappers-module/provide-image-details-database-to-domain-mapper.html
+$dokka.location:com.logical.data.di/NetworkingModule///PointingToDeclaration/data/com.logical.data.di/-networking-module/index.html
+$dokka.location:com.logical.data.di/NetworkingModule/NetworkingModule/#/PointingToDeclaration/data/com.logical.data.di/-networking-module/-networking-module.html
+$dokka.location:com.logical.data.di/NetworkingModule/provideGson/#/PointingToDeclaration/data/com.logical.data.di/-networking-module/provide-gson.html
+$dokka.location:com.logical.data.di/NetworkingModule/provideHttpLogInterceptor/#/PointingToDeclaration/data/com.logical.data.di/-networking-module/provide-http-log-interceptor.html
+$dokka.location:com.logical.data.di/NetworkingModule/provideOkHttpClient/#okhttp3.logging.HttpLoggingInterceptor/PointingToDeclaration/data/com.logical.data.di/-networking-module/provide-ok-http-client.html
+$dokka.location:com.logical.data.di/NetworkingModule/provideRetrofit/#com.google.gson.Gson#okhttp3.OkHttpClient/PointingToDeclaration/data/com.logical.data.di/-networking-module/provide-retrofit.html
+$dokka.location:com.logical.data.di/RepositoriesModule///PointingToDeclaration/data/com.logical.data.di/-repositories-module/index.html
+$dokka.location:com.logical.data.di/RepositoriesModule/RepositoriesModule/#/PointingToDeclaration/data/com.logical.data.di/-repositories-module/-repositories-module.html
+$dokka.location:com.logical.data.di/RepositoriesModule/provideImagesRepositoryImp/#com.logical.data.datasource.remote.ApiService#com.logical.data.datasource.local.storage.ImageDetailsDao#com.logical.data.mappers.ImageDetailsApiToDomainMapper#com.logical.data.mappers.ImageDetailsApiToDatabaseMapper#com.logical.data.mappers.ImageDetailsDatabaseToDomainMapper/PointingToDeclaration/data/com.logical.data.di/-repositories-module/provide-images-repository-imp.html
+$dokka.location:com.logical.data.di/StorageModule///PointingToDeclaration/data/com.logical.data.di/-storage-module/index.html
+$dokka.location:com.logical.data.di/StorageModule/StorageModule/#/PointingToDeclaration/data/com.logical.data.di/-storage-module/-storage-module.html
+$dokka.location:com.logical.data.di/StorageModule/providesPixabayDao/#com.logical.data.datasource.local.storage.LocalDb/PointingToDeclaration/data/com.logical.data.di/-storage-module/provides-pixabay-dao.html
+$dokka.location:com.logical.data.di/StorageModule/providesPxDb/#android.content.Context/PointingToDeclaration/data/com.logical.data.di/-storage-module/provides-px-db.html
+$dokka.location:com.logical.data.mappers////PointingToDeclaration/data/com.logical.data.mappers/index.html
+$dokka.location:com.logical.data.mappers/ImageDetailsApiToDatabaseMapper///PointingToDeclaration/data/com.logical.data.mappers/-image-details-api-to-database-mapper/index.html
+$dokka.location:com.logical.data.mappers/ImageDetailsApiToDatabaseMapper/ImageDetailsApiToDatabaseMapper/#/PointingToDeclaration/data/com.logical.data.mappers/-image-details-api-to-database-mapper/-image-details-api-to-database-mapper.html
+$dokka.location:com.logical.data.mappers/ImageDetailsApiToDomainMapper///PointingToDeclaration/data/com.logical.data.mappers/-image-details-api-to-domain-mapper/index.html
+$dokka.location:com.logical.data.mappers/ImageDetailsApiToDomainMapper/ImageDetailsApiToDomainMapper/#/PointingToDeclaration/data/com.logical.data.mappers/-image-details-api-to-domain-mapper/-image-details-api-to-domain-mapper.html
+$dokka.location:com.logical.data.mappers/ImageDetailsDatabaseToDomainMapper///PointingToDeclaration/data/com.logical.data.mappers/-image-details-database-to-domain-mapper/index.html
+$dokka.location:com.logical.data.mappers/ImageDetailsDatabaseToDomainMapper/ImageDetailsDatabaseToDomainMapper/#/PointingToDeclaration/data/com.logical.data.mappers/-image-details-database-to-domain-mapper/-image-details-database-to-domain-mapper.html
+$dokka.location:com.logical.data.mappers/MapperInput///PointingToDeclaration/data/com.logical.data.mappers/-mapper-input/index.html
+$dokka.location:com.logical.data.mappers/MapperInput/MapperInput/#com.logical.data.models.ImageDetailsApiModel#kotlin.String#kotlin.Long/PointingToDeclaration/data/com.logical.data.mappers/-mapper-input/-mapper-input.html
+$dokka.location:com.logical.data.mappers/MapperInput/apiImageDetails/#/PointingToDeclaration/data/com.logical.data.mappers/-mapper-input/api-image-details.html
+$dokka.location:com.logical.data.mappers/MapperInput/createdAt/#/PointingToDeclaration/data/com.logical.data.mappers/-mapper-input/created-at.html
+$dokka.location:com.logical.data.mappers/MapperInput/searchQuery/#/PointingToDeclaration/data/com.logical.data.mappers/-mapper-input/search-query.html
+$dokka.location:com.logical.data.models////PointingToDeclaration/data/com.logical.data.models/index.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel///PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/index.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/ImageDetailsApiModel/#kotlin.Long?#kotlin.String?#kotlin.String?#kotlin.String?#kotlin.String?#kotlin.String?#kotlin.String?#kotlin.Long?#kotlin.Long?#kotlin.Long?#kotlin.Long?#kotlin.String?#kotlin.String?/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/-image-details-api-model.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/comments/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/comments.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/downloads/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/downloads.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/id/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/id.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/largeImageURL/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/large-image-u-r-l.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/likes/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/likes.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/pageURL/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/page-u-r-l.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/previewURL/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/preview-u-r-l.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/tags/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/tags.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/type/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/type.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/user/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/user.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/userId/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/user-id.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/userImageURL/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/user-image-u-r-l.html
+$dokka.location:com.logical.data.models/ImageDetailsApiModel/webFormatURL/#/PointingToDeclaration/data/com.logical.data.models/-image-details-api-model/web-format-u-r-l.html
+$dokka.location:com.logical.data.models/ImagesApiModel///PointingToDeclaration/data/com.logical.data.models/-images-api-model/index.html
+$dokka.location:com.logical.data.models/ImagesApiModel/ImagesApiModel/#kotlin.collections.List[com.logical.data.models.ImageDetailsApiModel]?/PointingToDeclaration/data/com.logical.data.models/-images-api-model/-images-api-model.html
+$dokka.location:com.logical.data.models/ImagesApiModel/images/#/PointingToDeclaration/data/com.logical.data.models/-images-api-model/images.html
+$dokka.location:com.logical.data.repo////PointingToDeclaration/data/com.logical.data.repo/index.html
+$dokka.location:com.logical.data.repo/ImagesRepositoryImp///PointingToDeclaration/data/com.logical.data.repo/-images-repository-imp/index.html
+$dokka.location:com.logical.data.repo/ImagesRepositoryImp/ImagesRepositoryImp/#com.logical.data.datasource.remote.ApiService#com.logical.data.datasource.local.storage.ImageDetailsDao#com.logical.data.mappers.ImageDetailsApiToDomainMapper#com.logical.data.mappers.ImageDetailsApiToDatabaseMapper#com.logical.data.mappers.ImageDetailsDatabaseToDomainMapper/PointingToDeclaration/data/com.logical.data.repo/-images-repository-imp/-images-repository-imp.html
+$dokka.location:com.logical.data.repo/ImagesRepositoryImp/getImages/#kotlin.String/PointingToDeclaration/data/com.logical.data.repo/-images-repository-imp/get-images.html
+com.logical.data.common
+com.logical.data.datasource.local.entities
+com.logical.data.datasource.local.storage
+com.logical.data.datasource.remote
+com.logical.data.di
+com.logical.data.mappers
+com.logical.data.models
+com.logical.data.repo
+

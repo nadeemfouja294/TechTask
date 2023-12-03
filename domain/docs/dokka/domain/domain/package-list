@@ -1,0 +1,46 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.logical.domain.common////PointingToDeclaration/domain/com.logical.domain.common/index.html
+$dokka.location:com.logical.domain.common/Resource.Error///PointingToDeclaration/domain/com.logical.domain.common/-resource/-error/index.html
+$dokka.location:com.logical.domain.common/Resource.Error/Error/#kotlin.String?#TypeParam(bounds=[kotlin.Any?])?/PointingToDeclaration/domain/com.logical.domain.common/-resource/-error/-error.html
+$dokka.location:com.logical.domain.common/Resource.Success///PointingToDeclaration/domain/com.logical.domain.common/-resource/-success/index.html
+$dokka.location:com.logical.domain.common/Resource.Success/Success/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/domain/com.logical.domain.common/-resource/-success/-success.html
+$dokka.location:com.logical.domain.common/Resource///PointingToDeclaration/domain/com.logical.domain.common/-resource/index.html
+$dokka.location:com.logical.domain.common/Resource/data/#/PointingToDeclaration/domain/com.logical.domain.common/-resource/data.html
+$dokka.location:com.logical.domain.common/Resource/message/#/PointingToDeclaration/domain/com.logical.domain.common/-resource/message.html
+$dokka.location:com.logical.domain.di////PointingToDeclaration/domain/com.logical.domain.di/index.html
+$dokka.location:com.logical.domain.di/UseCasesModule///PointingToDeclaration/domain/com.logical.domain.di/-use-cases-module/index.html
+$dokka.location:com.logical.domain.di/UseCasesModule/UseCasesModule/#/PointingToDeclaration/domain/com.logical.domain.di/-use-cases-module/-use-cases-module.html
+$dokka.location:com.logical.domain.di/UseCasesModule/provideImagesUseCase/#com.logical.domain.repositories.ImagesRepository#android.content.res.Resources/PointingToDeclaration/domain/com.logical.domain.di/-use-cases-module/provide-images-use-case.html
+$dokka.location:com.logical.domain.models////PointingToDeclaration/domain/com.logical.domain.models/index.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel///PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/index.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/ImageDetailsDomainModel/#kotlin.Long#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Long#kotlin.Long#kotlin.Long#kotlin.Long#kotlin.String#kotlin.String/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/-image-details-domain-model.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/comments/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/comments.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/downloads/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/downloads.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/id/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/id.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/largeImageURL/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/large-image-u-r-l.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/likes/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/likes.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/pageURL/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/page-u-r-l.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/previewURL/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/preview-u-r-l.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/tags/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/tags.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/type/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/type.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/user/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/user.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/userId/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/user-id.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/userImageURL/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/user-image-u-r-l.html
+$dokka.location:com.logical.domain.models/ImageDetailsDomainModel/webFormatURL/#/PointingToDeclaration/domain/com.logical.domain.models/-image-details-domain-model/web-format-u-r-l.html
+$dokka.location:com.logical.domain.models/ImagesDomainModel///PointingToDeclaration/domain/com.logical.domain.models/-images-domain-model/index.html
+$dokka.location:com.logical.domain.models/ImagesDomainModel/ImagesDomainModel/#kotlin.collections.List[com.logical.domain.models.ImageDetailsDomainModel]/PointingToDeclaration/domain/com.logical.domain.models/-images-domain-model/-images-domain-model.html
+$dokka.location:com.logical.domain.models/ImagesDomainModel/images/#/PointingToDeclaration/domain/com.logical.domain.models/-images-domain-model/images.html
+$dokka.location:com.logical.domain.repositories////PointingToDeclaration/domain/com.logical.domain.repositories/index.html
+$dokka.location:com.logical.domain.repositories/ImagesRepository///PointingToDeclaration/domain/com.logical.domain.repositories/-images-repository/index.html
+$dokka.location:com.logical.domain.repositories/ImagesRepository/getImages/#kotlin.String/PointingToDeclaration/domain/com.logical.domain.repositories/-images-repository/get-images.html
+$dokka.location:com.logical.domain.usecases////PointingToDeclaration/domain/com.logical.domain.usecases/index.html
+$dokka.location:com.logical.domain.usecases/ImagesUseCase///PointingToDeclaration/domain/com.logical.domain.usecases/-images-use-case/index.html
+$dokka.location:com.logical.domain.usecases/ImagesUseCase/ImagesUseCase/#com.logical.domain.repositories.ImagesRepository#android.content.res.Resources/PointingToDeclaration/domain/com.logical.domain.usecases/-images-use-case/-images-use-case.html
+$dokka.location:com.logical.domain.usecases/ImagesUseCase/invoke/#kotlin.String/PointingToDeclaration/domain/com.logical.domain.usecases/-images-use-case/invoke.html
+com.logical.domain.common
+com.logical.domain.di
+com.logical.domain.models
+com.logical.domain.repositories
+com.logical.domain.usecases
+

@@ -1,0 +1,138 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.logical.techtask.appcontroller////PointingToDeclaration/app/com.logical.techtask.appcontroller/index.html
+$dokka.location:com.logical.techtask.appcontroller/MyApplication///PointingToDeclaration/app/com.logical.techtask.appcontroller/-my-application/index.html
+$dokka.location:com.logical.techtask.appcontroller/MyApplication/MyApplication/#/PointingToDeclaration/app/com.logical.techtask.appcontroller/-my-application/-my-application.html
+$dokka.location:com.logical.techtask.appcontroller/MyApplication/onCreate/#/PointingToDeclaration/app/com.logical.techtask.appcontroller/-my-application/on-create.html
+$dokka.location:com.logical.techtask.di////PointingToDeclaration/app/com.logical.techtask.di/index.html
+$dokka.location:com.logical.techtask.di/MapperModule///PointingToDeclaration/app/com.logical.techtask.di/-mapper-module/index.html
+$dokka.location:com.logical.techtask.di/MapperModule/MapperModule/#/PointingToDeclaration/app/com.logical.techtask.di/-mapper-module/-mapper-module.html
+$dokka.location:com.logical.techtask.di/MapperModule/provideImageDetailsDomainToPresentationMapper/#/PointingToDeclaration/app/com.logical.techtask.di/-mapper-module/provide-image-details-domain-to-presentation-mapper.html
+$dokka.location:com.logical.techtask.di/UiModule///PointingToDeclaration/app/com.logical.techtask.di/-ui-module/index.html
+$dokka.location:com.logical.techtask.di/UiModule/UiModule/#/PointingToDeclaration/app/com.logical.techtask.di/-ui-module/-ui-module.html
+$dokka.location:com.logical.techtask.di/UiModule/providesImageDetailsPresentationToUiMapper/#/PointingToDeclaration/app/com.logical.techtask.di/-ui-module/provides-image-details-presentation-to-ui-mapper.html
+$dokka.location:com.logical.techtask.di/UiModule/providesResources/#android.content.Context/PointingToDeclaration/app/com.logical.techtask.di/-ui-module/provides-resources.html
+$dokka.location:com.logical.techtask.mapper////PointingToDeclaration/app/com.logical.techtask.mapper/index.html
+$dokka.location:com.logical.techtask.mapper/ImageDetailsDomainToPresentationMapper///PointingToDeclaration/app/com.logical.techtask.mapper/-image-details-domain-to-presentation-mapper/index.html
+$dokka.location:com.logical.techtask.mapper/ImageDetailsDomainToPresentationMapper/ImageDetailsDomainToPresentationMapper/#/PointingToDeclaration/app/com.logical.techtask.mapper/-image-details-domain-to-presentation-mapper/-image-details-domain-to-presentation-mapper.html
+$dokka.location:com.logical.techtask.mapper/ImageDetailsDomainToPresentationMapper/map/#com.logical.domain.models.ImageDetailsDomainModel/PointingToDeclaration/app/com.logical.techtask.mapper/-image-details-domain-to-presentation-mapper/map.html
+$dokka.location:com.logical.techtask.mapper/ImageDetailsPresentationToUiMapper///PointingToDeclaration/app/com.logical.techtask.mapper/-image-details-presentation-to-ui-mapper/index.html
+$dokka.location:com.logical.techtask.mapper/ImageDetailsPresentationToUiMapper/ImageDetailsPresentationToUiMapper/#/PointingToDeclaration/app/com.logical.techtask.mapper/-image-details-presentation-to-ui-mapper/-image-details-presentation-to-ui-mapper.html
+$dokka.location:com.logical.techtask.model////PointingToDeclaration/app/com.logical.techtask.model/index.html
+$dokka.location:com.logical.techtask.model//emptyViewState/#/PointingToDeclaration/app/com.logical.techtask.model/empty-view-state.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel///PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/index.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/ImageDetailsPresentationModel/#kotlin.Long#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Long#kotlin.Long#kotlin.Long#kotlin.Long#kotlin.String#kotlin.String/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/-image-details-presentation-model.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/comments/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/comments.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/downloads/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/downloads.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/id/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/id.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/largeImageURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/large-image-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/likes/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/likes.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/pageURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/page-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/previewURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/preview-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/tags/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/tags.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/type/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/type.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/user/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/user.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/userId/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/user-id.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/userImageURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/user-image-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsPresentationModel/webFormatURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-presentation-model/web-format-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel///PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/index.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/ImageDetailsUiModel/#kotlin.Long#kotlin.String#kotlin.String#kotlin.collections.List[kotlin.String]#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Long#kotlin.String#kotlin.String/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/-image-details-ui-model.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/comments/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/comments.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/downloads/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/downloads.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/id/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/id.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/largeImageURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/large-image-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/likes/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/likes.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/pageURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/page-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/previewURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/preview-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/tags/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/tags.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/type/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/type.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/user/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/user.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/userId/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/user-id.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/userImageURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/user-image-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImageDetailsUiModel/webFormatURL/#/PointingToDeclaration/app/com.logical.techtask.model/-image-details-ui-model/web-format-u-r-l.html
+$dokka.location:com.logical.techtask.model/ImagesViewState///PointingToDeclaration/app/com.logical.techtask.model/-images-view-state/index.html
+$dokka.location:com.logical.techtask.model/ImagesViewState/ImagesViewState/#kotlin.Boolean#kotlin.collections.List[com.logical.techtask.model.ImageDetailsPresentationModel]#kotlin.String/PointingToDeclaration/app/com.logical.techtask.model/-images-view-state/-images-view-state.html
+$dokka.location:com.logical.techtask.model/ImagesViewState/errorMessage/#/PointingToDeclaration/app/com.logical.techtask.model/-images-view-state/error-message.html
+$dokka.location:com.logical.techtask.model/ImagesViewState/images/#/PointingToDeclaration/app/com.logical.techtask.model/-images-view-state/images.html
+$dokka.location:com.logical.techtask.model/ImagesViewState/isDataLoading/#/PointingToDeclaration/app/com.logical.techtask.model/-images-view-state/is-data-loading.html
+$dokka.location:com.logical.techtask.ui.component////PointingToDeclaration/app/com.logical.techtask.ui.component/index.html
+$dokka.location:com.logical.techtask.ui.component//AppButton/#androidx.compose.ui.Modifier#kotlin.String#androidx.compose.ui.graphics.Color#androidx.compose.ui.graphics.Color#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.component/-app-button.html
+$dokka.location:com.logical.techtask.ui.component//ImageView/#android.content.Context#kotlin.String#kotlin.Boolean#androidx.compose.ui.Modifier/PointingToDeclaration/app/com.logical.techtask.ui.component/-image-view.html
+$dokka.location:com.logical.techtask.ui.component//NoDataWidget/#/PointingToDeclaration/app/com.logical.techtask.ui.component/-no-data-widget.html
+$dokka.location:com.logical.techtask.ui.component//SearchBar/#kotlin.String#kotlin.Function1[kotlin.String,kotlin.Unit]#kotlin.Function1[kotlin.String,kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.component/-search-bar.html
+$dokka.location:com.logical.techtask.ui.component//TryAgainWidget/#kotlin.String?#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.component/-try-again-widget.html
+$dokka.location:com.logical.techtask.ui.detailscreen////PointingToDeclaration/app/com.logical.techtask.ui.detailscreen/index.html
+$dokka.location:com.logical.techtask.ui.detailscreen//DetailScreen/#com.logical.techtask.model.ImageDetailsUiModel#androidx.navigation.NavController/PointingToDeclaration/app/com.logical.techtask.ui.detailscreen/-detail-screen.html
+$dokka.location:com.logical.techtask.ui.detailscreen//DrawableId/#/PointingToDeclaration/app/com.logical.techtask.ui.detailscreen/-drawable-id.html
+$dokka.location:com.logical.techtask.ui.detailscreen//IconTextStack/#androidx.compose.ui.Modifier#kotlin.Int#kotlin.String/PointingToDeclaration/app/com.logical.techtask.ui.detailscreen/-icon-text-stack.html
+$dokka.location:com.logical.techtask.ui.detailscreen//drawableId/androidx.compose.ui.semantics.SemanticsPropertyReceiver#/PointingToDeclaration/app/com.logical.techtask.ui.detailscreen/drawable-id.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen////PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/index.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen//DetailScreenWarningDialog/#androidx.compose.runtime.MutableState[kotlin.Boolean]#com.logical.techtask.model.ImageDetailsUiModel#kotlin.Function0[kotlin.Unit]#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/-detail-screen-warning-dialog.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen//DetailScreenWarningDialogUI/#com.logical.techtask.model.ImageDetailsUiModel#kotlin.Function0[kotlin.Unit]#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/-detail-screen-warning-dialog-u-i.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen//ListItem/#com.logical.techtask.model.ImageDetailsUiModel#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/-list-item.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen//ListScreen/#androidx.navigation.NavController#com.logical.techtask.viewmodel.ImagesViewModel/PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/-list-screen.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen//Listing/#androidx.compose.ui.Modifier#kotlin.collections.List[com.logical.techtask.model.ImageDetailsUiModel]#kotlin.Function1[com.logical.techtask.model.ImageDetailsUiModel,kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/-listing.html
+$dokka.location:com.logical.techtask.ui.mainlistscreen//TagRow/#androidx.compose.ui.Modifier#kotlin.collections.List[kotlin.String]/PointingToDeclaration/app/com.logical.techtask.ui.mainlistscreen/-tag-row.html
+$dokka.location:com.logical.techtask.ui.navigation////PointingToDeclaration/app/com.logical.techtask.ui.navigation/index.html
+$dokka.location:com.logical.techtask.ui.navigation//AppNavigation/#androidx.navigation.NavHostController/PointingToDeclaration/app/com.logical.techtask.ui.navigation/-app-navigation.html
+$dokka.location:com.logical.techtask.ui.navigation/Screens.Companion///PointingToDeclaration/app/com.logical.techtask.ui.navigation/-screens/-companion/index.html
+$dokka.location:com.logical.techtask.ui.navigation/Screens.Companion/IMAGE_ID/#/PointingToDeclaration/app/com.logical.techtask.ui.navigation/-screens/-companion/-i-m-a-g-e_-i-d.html
+$dokka.location:com.logical.techtask.ui.navigation/Screens.ImageDetail///PointingToDeclaration/app/com.logical.techtask.ui.navigation/-screens/-image-detail/index.html
+$dokka.location:com.logical.techtask.ui.navigation/Screens.ImageList///PointingToDeclaration/app/com.logical.techtask.ui.navigation/-screens/-image-list/index.html
+$dokka.location:com.logical.techtask.ui.navigation/Screens///PointingToDeclaration/app/com.logical.techtask.ui.navigation/-screens/index.html
+$dokka.location:com.logical.techtask.ui.navigation/Screens/route/#/PointingToDeclaration/app/com.logical.techtask.ui.navigation/-screens/route.html
+$dokka.location:com.logical.techtask.ui.theme////PointingToDeclaration/app/com.logical.techtask.ui.theme/index.html
+$dokka.location:com.logical.techtask.ui.theme//Blue/#/PointingToDeclaration/app/com.logical.techtask.ui.theme/-blue.html
+$dokka.location:com.logical.techtask.ui.theme//BluishBlack/#/PointingToDeclaration/app/com.logical.techtask.ui.theme/-bluish-black.html
+$dokka.location:com.logical.techtask.ui.theme//DarkBlue/#/PointingToDeclaration/app/com.logical.techtask.ui.theme/-dark-blue.html
+$dokka.location:com.logical.techtask.ui.theme//Shapes/#/PointingToDeclaration/app/com.logical.techtask.ui.theme/-shapes.html
+$dokka.location:com.logical.techtask.ui.theme//TechTaskTheme/#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.logical.techtask.ui.theme/-tech-task-theme.html
+$dokka.location:com.logical.techtask.ui.theme//Typography/#/PointingToDeclaration/app/com.logical.techtask.ui.theme/-typography.html
+$dokka.location:com.logical.techtask.ui.theme//White/#/PointingToDeclaration/app/com.logical.techtask.ui.theme/-white.html
+$dokka.location:com.logical.techtask.ui////PointingToDeclaration/app/com.logical.techtask.ui/index.html
+$dokka.location:com.logical.techtask.ui/MainActivity///PointingToDeclaration/app/com.logical.techtask.ui/-main-activity/index.html
+$dokka.location:com.logical.techtask.ui/MainActivity/MainActivity/#/PointingToDeclaration/app/com.logical.techtask.ui/-main-activity/-main-activity.html
+$dokka.location:com.logical.techtask.utils////PointingToDeclaration/app/com.logical.techtask.utils/index.html
+$dokka.location:com.logical.techtask.utils//format/kotlin.Long#/PointingToDeclaration/app/com.logical.techtask.utils/format.html
+$dokka.location:com.logical.techtask.utils//openBrowser/android.content.Context#kotlin.String/PointingToDeclaration/app/com.logical.techtask.utils/open-browser.html
+$dokka.location:com.logical.techtask.utils//orZero/kotlin.Long?#/PointingToDeclaration/app/com.logical.techtask.utils/or-zero.html
+$dokka.location:com.logical.techtask.utils/TestTags///PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/index.html
+$dokka.location:com.logical.techtask.utils/TestTags/DETAIL_SCREEN_COMMENT/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-d-e-t-a-i-l_-s-c-r-e-e-n_-c-o-m-m-e-n-t.html
+$dokka.location:com.logical.techtask.utils/TestTags/DETAIL_SCREEN_DOWNLOAD/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-d-e-t-a-i-l_-s-c-r-e-e-n_-d-o-w-n-l-o-a-d.html
+$dokka.location:com.logical.techtask.utils/TestTags/DETAIL_SCREEN_LARGE_IMAGE/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-d-e-t-a-i-l_-s-c-r-e-e-n_-l-a-r-g-e_-i-m-a-g-e.html
+$dokka.location:com.logical.techtask.utils/TestTags/DETAIL_SCREEN_LIKE/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-d-e-t-a-i-l_-s-c-r-e-e-n_-l-i-k-e.html
+$dokka.location:com.logical.techtask.utils/TestTags/DETAIL_SCREEN_SOURCE_CREDIT/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-d-e-t-a-i-l_-s-c-r-e-e-n_-s-o-u-r-c-e_-c-r-e-d-i-t.html
+$dokka.location:com.logical.techtask.utils/TestTags/DETAIL_SCREEN_TAGS/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-d-e-t-a-i-l_-s-c-r-e-e-n_-t-a-g-s.html
+$dokka.location:com.logical.techtask.utils/TestTags/EMPTY_IMAGE_LIST/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-e-m-p-t-y_-i-m-a-g-e_-l-i-s-t.html
+$dokka.location:com.logical.techtask.utils/TestTags/IMAGE_DETAIL/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-i-m-a-g-e_-d-e-t-a-i-l.html
+$dokka.location:com.logical.techtask.utils/TestTags/IMAGE_LIST/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-i-m-a-g-e_-l-i-s-t.html
+$dokka.location:com.logical.techtask.utils/TestTags/ITEM_IMAGE_LIST/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-i-t-e-m_-i-m-a-g-e_-l-i-s-t.html
+$dokka.location:com.logical.techtask.utils/TestTags/USERNAME/#/PointingToDeclaration/app/com.logical.techtask.utils/-test-tags/-u-s-e-r-n-a-m-e.html
+$dokka.location:com.logical.techtask.viewmodel////PointingToDeclaration/app/com.logical.techtask.viewmodel/index.html
+$dokka.location:com.logical.techtask.viewmodel/BaseViewModel///PointingToDeclaration/app/com.logical.techtask.viewmodel/-base-view-model/index.html
+$dokka.location:com.logical.techtask.viewmodel/BaseViewModel/BaseViewModel/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-base-view-model/-base-view-model.html
+$dokka.location:com.logical.techtask.viewmodel/BaseViewModel/currentViewState/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-base-view-model/current-view-state.html
+$dokka.location:com.logical.techtask.viewmodel/BaseViewModel/initialState/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-base-view-model/initial-state.html
+$dokka.location:com.logical.techtask.viewmodel/BaseViewModel/updateState/#kotlin.Function1[TypeParam(bounds=[com.logical.techtask.viewmodel.ViewState]),TypeParam(bounds=[com.logical.techtask.viewmodel.ViewState])]/PointingToDeclaration/app/com.logical.techtask.viewmodel/-base-view-model/update-state.html
+$dokka.location:com.logical.techtask.viewmodel/BaseViewModel/viewState/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-base-view-model/view-state.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel///PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/index.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel/ImagesViewModel/#com.logical.domain.usecases.ImagesUseCase#com.logical.techtask.mapper.ImageDetailsDomainToPresentationMapper#android.content.res.Resources#com.logical.techtask.mapper.ImageDetailsPresentationToUiMapper/PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/-images-view-model.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel/getImages/#kotlin.String/PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/get-images.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel/imageDetailsToUiMapper/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/image-details-to-ui-mapper.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel/initialState/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/initial-state.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel/onSearchTextChange/#kotlin.String/PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/on-search-text-change.html
+$dokka.location:com.logical.techtask.viewmodel/ImagesViewModel/searchText/#/PointingToDeclaration/app/com.logical.techtask.viewmodel/-images-view-model/search-text.html
+$dokka.location:com.logical.techtask.viewmodel/ViewState///PointingToDeclaration/app/com.logical.techtask.viewmodel/-view-state/index.html
+com.logical.techtask.appcontroller
+com.logical.techtask.di
+com.logical.techtask.mapper
+com.logical.techtask.model
+com.logical.techtask.ui
+com.logical.techtask.ui.component
+com.logical.techtask.ui.detailscreen
+com.logical.techtask.ui.mainlistscreen
+com.logical.techtask.ui.navigation
+com.logical.techtask.ui.theme
+com.logical.techtask.utils
+com.logical.techtask.viewmodel
+
