@@ -32,7 +32,7 @@ Each layer can only interact with the layers below it.
 The bottom layers dictate policies and rules, and the upper layers dictate implementation details such as the database, networking manager, and UI.
 
 <p align="center">
-<img src="https://github.com/nadeemfouja294/TechTask/blob/develop/screenshot/architecture0.png">
+<img src="https://github.com/nadeemfouja294/TechTask/blob/master/screenshot/architecture0.png">
 </p>
 
 # Architecture Layers
@@ -43,14 +43,14 @@ The domain layer, the data layer, and the app (presentation) layer.
 
 Looking at project’s high-level structure, you’ll see that each layer is represented by a module in the project.
 
-![image](https://github.com/nadeemfouja294/TechTask/blob/develop/screenshot/structure.png)
+![image](https://github.com/nadeemfouja294/TechTask/blob/master/screenshot/structure.png)
 
 I like it because it helps me avoid accidentals “leaks” between the layers.
 
 
 # Structure
 <p align="center">
-<img src="https://github.com/nadeemfouja294/TechTask/blob/develop/screenshot/structure0.png">
+<img src="https://github.com/nadeemfouja294/TechTask/blob/master/screenshot/structure0.png">
 </p>
 
 
