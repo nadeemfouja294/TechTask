@@ -32,7 +32,7 @@ android {
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
-                targetCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
     dokkaHtml{
         outputDirectory.set(file("${rootProject.projectDir}/docs/dokka/app"))
@@ -54,7 +54,8 @@ android {
 }
 
 dependencies {
-
+    implementation project(path: ":data")
+    implementation project(path: ":domain")
 
     implementation 'androidx.core:core-ktx:1.10.1'
     implementation platform('org.jetbrains.kotlin:kotlin-bom:1.8.0')
